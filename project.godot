@@ -25,7 +25,6 @@ config/icon="res://icon.png"
 
 [display]
 
-window/size/width=800
 window/size/resizable=false
 
 [gdnative]
