@@ -5,3 +5,10 @@
 bin/
 build/
 lib/
+
+default_env.tres
+git_api.*
+icon.png*
+
+PIPOYA*
+TwilightVillage*
