@@ -94,4 +94,6 @@ anims/Walk = SubResource( 2 )
 [node name="Camera2D" type="Camera2D" parent="."]
 current = true
 limit_left = -640
-limit_right = 640
+limit_top = -384
+limit_right = 704
+limit_bottom = 448
