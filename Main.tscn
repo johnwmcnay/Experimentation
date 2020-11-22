@@ -64,7 +64,6 @@ z_index = 1
 
 [node name="RayCast2D2" type="RayCast2D" parent="KinematicBody2D"]
 enabled = true
-cast_to = Vector2( 0, 50 )
 collision_mask = 3
 collide_with_areas = true
 collide_with_bodies = false
